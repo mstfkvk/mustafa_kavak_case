@@ -1,6 +1,0 @@
-{
-    "editor.mouseWheelZoom": true,
-    "terminal.integrated.mouseWheelZoom": true,
-    "java.configuration.updateBuildConfiguration": "automatic",
-    "java.format.settings.url": "${workspaceFolder}/.vscode/eclipse-formatter.xml"
-}

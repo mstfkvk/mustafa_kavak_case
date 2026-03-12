@@ -1,0 +1,24 @@
+# Python (Load Testing için)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Java/Maven (API ve UI Automation için)
+target/
+*.class
+*.jar
+*.war
+
+# IDE Ayarları
+.vscode/
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+
+# Test Raporları (Allure)
+allure-results/
+allure-report/
+.allure/
